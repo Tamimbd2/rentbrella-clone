@@ -9,12 +9,11 @@ export const NAV_LINKS = [
 ];
 
 export const COMPANY_LOGOS = [
-  'BR PETROBRAS', 'Shell', 'Ford', 'Mercedes-Benz', 'SCANIA', 'DHL', 'Bayer', 'Cosan', 'Itaú', 'EY',
-  'nu', 'C6 BANK', 'securitas', 'stone', 'formax', 'sanofi', 'Pfizer', 'supra', 'globo', 'Unimed',
-  'Telefônica', 'Tetra Pak', 'L\'Oréal', 'Porto', 'Electrolux', 'Pirelli', 'Siemens', 'CA', 'Cielo', 'Shopee',
-  'JBS', 'VR', 'GERDAU', 'Syngenta', 'sodexo', 'WAP', 'edenred', 'iFood', 'Ambev',
-  'IBM', 'TOTVS', 'pwc', 'LUGGO', 'PORTO SEGURO', 'CBRE', 'Brookfield', 'SENAI', 'Sicredi',
-  'ULTRAGAZ', 'ocelen', 'TotalEnergies', 'COPEL', 'PRIO', 'VIBRA',
+  'Green University',
+  'Tecnitia',
+  'Aqualand',
+  'Ponnoala.com',
+  'It Planet BD',
 ];
 
 export const FAQ_DATA = [
