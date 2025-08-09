@@ -6,14 +6,14 @@ const HowItWorks: React.FC = () => {
     { number: '01', text: 'Check the app for the nearest station' },
     { number: '02', text: 'Withdraw your umbrella' },
     { number: '03', text: 'Protect yourself from the rain and sun' },
-    { number: '04', text: 'Return it to any Rentbrella station' },
+    { number: '04', text: 'Return it to any UmbraShare station' },
   ];
 
   const images = [
-    'https://images.unsplash.com/photo-1517498771946-27825b45a043?q=80&w=1887&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1558282717-7151045a47a1?q=80&w=1887&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?q=80&w=1935&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1621003887962-d2c65a0b6748?q=80&w=1887&auto=format&fit=crop',
+    'https://i.postimg.cc/J0gZkLMZ/A-smartphone-screen.png',
+    'https://i.postimg.cc/kGrw0KRk/A-person-standing-at.png',
+    'https://i.postimg.cc/PJ1sjHXK/2-hand-in-one-place.png',
+    'https://i.postimg.cc/h4p18kpk/A-user-returning-a-f.png',
   ];
 
   return (
